@@ -11,6 +11,13 @@
  ![leleluv1122's github stats](https://github-readme-stats.vercel.app/api?username=leleluv1122&theme=buefy&show_icons=true)
   
   </div>
+  
+  
+  <div align=center>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leleluv1122&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
 
 <div align=center>
   
