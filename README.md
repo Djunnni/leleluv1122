@@ -1,4 +1,12 @@
-### Hi there 👋
+### 😍승히의 깃허브에 온걸 환영해용🙋😝
+
+
+
+<div align=center>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleleluv1122)](https://hits.seeyoufarm.com)
+  
+  </div>
 
 <!--
 **leleluv1122/leleluv1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
