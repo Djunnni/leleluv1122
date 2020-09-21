@@ -16,6 +16,7 @@
   <div align=center>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leleluv1122&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leleluv1122)](https://solved.ac/leleluv1122)
 
   </div>
 
